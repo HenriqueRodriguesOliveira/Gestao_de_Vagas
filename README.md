@@ -3,9 +3,6 @@
   <img src="https://github.com/HenriqueRodriguesOliveira/Projeto-SpringBoot/assets/79226722/709cff87-68a0-46be-ba98-d3cf809080a3" alt="Logo Java" width="300">
   <h1>Gestão de vagas</h1>
 </div>
-
-<img src="https://github.com/HenriqueRodriguesOliveira/Projeto-SpringBoot/assets/79226722/e59bfafe-99e6-43ec-af54-1bc9319533d3" alt="Imagem de explicação">
-<img src="https://github.com/HenriqueRodriguesOliveira/Projeto-SpringBoot/assets/79226722/48ab6243-aa13-4d11-9455-1c283b44b812" alt="Imagem da IDE com códigos Java">
 </br>
 </br>
 
